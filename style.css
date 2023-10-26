@@ -1,11 +1,9 @@
-#title{
-    color: green;
-    font-family: sans-serif;
-    text-align: center;
+#location{
+    font-size: x-large;
 }
-#body{
+*{
+    font-family: 'Sometype Mono', monospace;
     background-color: black;
-}
-#date{
+    text-align: center;
     color: green;
 }
